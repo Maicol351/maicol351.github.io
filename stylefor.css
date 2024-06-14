@@ -1,0 +1,25 @@
+body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-image: url(formulario.jpg);
+        background-size: 35%;
+}
+
+.for{
+    color: black;
+}
+
+label{
+    color: black;
+}
+
+.botonesvolver{
+    background-color: white;
+    color: black;
+    padding: 5px;
+    border: rgb(255, 98, 1) 3px solid;   
+    border-radius: 5%;
+    font-size: 13px;
+    
+}
